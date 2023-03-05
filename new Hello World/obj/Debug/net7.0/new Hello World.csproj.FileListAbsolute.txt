@@ -1,0 +1,15 @@
+/Users/valentinanemkova/Desktop/IT/C#/new Hello World/bin/Debug/net7.0/new Hello World
+/Users/valentinanemkova/Desktop/IT/C#/new Hello World/bin/Debug/net7.0/new Hello World.deps.json
+/Users/valentinanemkova/Desktop/IT/C#/new Hello World/bin/Debug/net7.0/new Hello World.runtimeconfig.json
+/Users/valentinanemkova/Desktop/IT/C#/new Hello World/bin/Debug/net7.0/new Hello World.dll
+/Users/valentinanemkova/Desktop/IT/C#/new Hello World/bin/Debug/net7.0/new Hello World.pdb
+/Users/valentinanemkova/Desktop/IT/C#/new Hello World/obj/Debug/net7.0/new Hello World.csproj.AssemblyReference.cache
+/Users/valentinanemkova/Desktop/IT/C#/new Hello World/obj/Debug/net7.0/new Hello World.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valentinanemkova/Desktop/IT/C#/new Hello World/obj/Debug/net7.0/new Hello World.AssemblyInfoInputs.cache
+/Users/valentinanemkova/Desktop/IT/C#/new Hello World/obj/Debug/net7.0/new Hello World.AssemblyInfo.cs
+/Users/valentinanemkova/Desktop/IT/C#/new Hello World/obj/Debug/net7.0/new Hello World.csproj.CoreCompileInputs.cache
+/Users/valentinanemkova/Desktop/IT/C#/new Hello World/obj/Debug/net7.0/new Hello World.dll
+/Users/valentinanemkova/Desktop/IT/C#/new Hello World/obj/Debug/net7.0/refint/new Hello World.dll
+/Users/valentinanemkova/Desktop/IT/C#/new Hello World/obj/Debug/net7.0/new Hello World.pdb
+/Users/valentinanemkova/Desktop/IT/C#/new Hello World/obj/Debug/net7.0/new Hello World.genruntimeconfig.cache
+/Users/valentinanemkova/Desktop/IT/C#/new Hello World/obj/Debug/net7.0/ref/new Hello World.dll
